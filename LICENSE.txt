@@ -1,6 +1,5 @@
 ## 📝 LICENSE.txt
 
-```text
 All Rights Reserved © 2025 Sainth-Nathan AHOUSSI.
 
 1. Propriété
