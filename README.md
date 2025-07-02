@@ -36,19 +36,25 @@ Ce projet est un assistant vocal personnel et agent autonome conçu pour :
 | Multilingue           | Whisper + GPT multilingue + TTS multilingue                                                                                                             |
 
 ## Structure du projet
+
+## Structure du projet
+
+```bash
 assistant-ia/
-├── data/ # enregistrements voix & modèles
+├── data/
+│   └── (enregistrements, modèles)
 ├── modules/
-│ ├── recognition.py # activation et transcription
-│ ├── tts.py # synthèse vocale clonée
-│ ├── control.py # exécution commande et GUI
-│ ├── autonomy.py # agent tâches
-│ ├── email.py # envoi/réception mails
-│ └── music.py # cours piano/guitare
-├── main.py # script principal
-├── requirements.txt # dépendances Python
-├── README.md # ce document
-└── LICENSE.txt # licence propriétaire
+│   ├── recognition.py        # capture et transcription
+│   ├── tts.py                # synthèse vocale clonée
+│   ├── control.py            # contrôle PC
+│   ├── autonomy.py           # agent autonome
+│   ├── email.py              # envoi/réception mail
+│   └── music.py              # cours piano/guitare
+├── main.py                   # point d'entrée
+├── requirements.txt          # dépendances Python
+├── README.md                 # ce document
+└── LICENSE.txt               # licence propriétaire
+```
 
 
 
