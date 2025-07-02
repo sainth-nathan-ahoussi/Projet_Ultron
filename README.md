@@ -1,6 +1,6 @@
-# Projet_Ultron - Assistant Vocal Autonome (Projet IA)
+# 🤖 Projet_Ultron - Assistant Vocal Autonome (Projet IA)
 
-## Description
+## Description :
 
 Ce projet est un assistant vocal personnel et agent autonome conçu pour :
 
@@ -13,7 +13,7 @@ Ce projet est un assistant vocal personnel et agent autonome conçu pour :
 - Vous apprendre le piano ou la guitare (guidage interactif)
 - Converser avec vous en plusieurs langues
 
-## Objectifs
+## 🎯 Objectifs :
 
 1. **Reconnaissance vocale** multilingue
 2. **Synthèse vocale** personnalisée
@@ -23,7 +23,7 @@ Ce projet est un assistant vocal personnel et agent autonome conçu pour :
 6. **Modules pédagogiques pour instruments**
 7. **Interface multilingue**
 
-## Technologies & Outils
+## 💻 Technologies & Outils :
 
 | Fonctionnalité        | Outils recommandés                                                                                                                                       |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -35,9 +35,7 @@ Ce projet est un assistant vocal personnel et agent autonome conçu pour :
 | Apprentissage musical | Pitch detection (aubio/pyaudio), API MuseScore/YouTube                                                                                                  |
 | Multilingue           | Whisper + GPT multilingue + TTS multilingue                                                                                                             |
 
-## Structure du projet
-
-## Structure du projet
+## 🔧 Structure du projet :
 
 ```bash
 assistant-ia/
@@ -58,7 +56,7 @@ assistant-ia/
 
 
 
-## Installation
+## 💾 Installation :
 
 1. Cloner le dépôt :
    ```bash
@@ -74,7 +72,7 @@ assistant-ia/
 4. Préparer vos modèles (Whisper, TTS, outils d’autonomie).
 
 
-## Utilisation
+## Utilisation :
 
 Exécutez l’assistant :
    ```bash
@@ -88,13 +86,14 @@ Activez le wake word, puis commandez vocalement :
 
 L’assistant répond avec la voix d’Ultron, exécute la commande, et peut initier un cours de guitare ou piano.
 
-## ℹ️ Contributions
+## ℹ️ Contributions :
+
 Ce projet est sous licence propriétaire (voir LICENSE.txt). Toute utilisation, modification ou distribution nécessite mon accord écrit et une mention claire :
 
 Développé par Sainth-Nathan AHOUSSI – [Github](https://github.com/sainth-nathan-ahoussi)
 
 
-## 📧 Contact
+## 📧 Contact :
 
 Pour toute question, autorisation, ou collaboration :
 Sainth-Nathan AHOUSSI – nathanahoussi502@gmail.com
