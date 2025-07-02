@@ -1,10 +1,7 @@
-
----
-
 ## 📝 LICENSE.txt
 
 ```text
-All Rights Reserved © 2025 [Votre Nom]
+All Rights Reserved © 2025 Sainth-Nathan AHOUSSI.
 
 1. Propriété
    Ce logiciel, ses modules, documentation, audio et tout contenu associé sont la propriété exclusive de Sainth-Nathan AHOUSSI.
@@ -38,6 +35,5 @@ All Rights Reserved © 2025 [Votre Nom]
 9. Droit applicable
    Ce contrat est régi par les lois d'Essone (France). Tous litiges seront portés devant les tribunaux compétents d'Essonne.
 
----
 
 En utilisant ce logiciel, vous acceptez les termes ci-dessus. Toute utilisation non conforme sera considérée comme violation de droits d’auteur.
