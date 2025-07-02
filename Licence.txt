@@ -1,0 +1,43 @@
+
+---
+
+## 📝 LICENSE.txt
+
+```text
+All Rights Reserved © 2025 [Votre Nom]
+
+1. Propriété
+   Ce logiciel, ses modules, documentation, audio et tout contenu associé sont la propriété exclusive de Sainth-Nathan AHOUSSI.
+
+2. Licence
+   Aucun droit n’est accordé, sauf accord écrit préalable.
+
+3. Attribution obligatoire
+   Toute utilisation autorisée doit afficher en évidence :
+   “Développé par Sainth-Nathan AHOUSSI – https://github.com/sainth-nathan-ahoussi”
+
+4. Restrictions
+   • Reproduction, modification, distribution, vente ou exploitation commerciale,
+     totale ou partielle, non autorisée est strictement interdite.
+   • Toute version dérivée nécessite mon accord explicite.
+
+5. Usage non commercial uniquement
+   Ce logiciel ne peut être utilisé à des fins commerciales sans mon consentement écrit.
+
+6. Mises à jour de la licence
+   Je me réserve le droit d’en modifier les termes. Les utilisateurs intégreront la dernière version du fichier LICENSE.txt.
+
+7. Garantie
+   Ce logiciel est fourni « tel quel », sans garantie d’aucune sorte, expresse ou implicite,
+   y compris, mais sans s’y limiter, les garanties de qualité marchande, d’adaptation à un usage particulier, et de non‑contrefaçon.
+
+8. Limitation de responsabilité
+   En aucun cas, je ne pourrai être tenu responsable de dommages directs, indirects,
+   accessoires ou spéciaux, liés à l’usage ou à l’impossibilité d’utiliser ce logiciel.
+
+9. Droit applicable
+   Ce contrat est régi par les lois d'Essone (France). Tous litiges seront portés devant les tribunaux compétents d'Essonne.
+
+---
+
+En utilisant ce logiciel, vous acceptez les termes ci-dessus. Toute utilisation non conforme sera considérée comme violation de droits d’auteur.
